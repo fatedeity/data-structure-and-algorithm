@@ -8,4 +8,8 @@
 
 ## 目录
 
-- Chapter01: [为什么要学数据结构与算法？](Chapter01.md)
+- [为什么要学数据结构与算法？](Chapter-01.md)
+
+---
+
+版权协议：[署名—非商业性使用—禁止演绎 4.0 协议（CC BY-NC-ND 4.0 License）](https://creativecommons.org/licenses/by-nc-nd/4.0)。
